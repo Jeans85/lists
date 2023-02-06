@@ -13,13 +13,13 @@
 	    {
 	      "name":"Megalista TV | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
-		  "url":"https://megalistawiseplay.vercel.app/megalista_tv.w3u",
+		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_tv.w3u",
 		  "import":true
 		},
 		{
 		  "name":"Megalista VOD | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
-		  "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
+		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u",
 		  "import":true
 		},
 		{
@@ -31,7 +31,7 @@
 		{
 		  "name":"Mega Sport TV (VPN) | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
-		  "url":"https://megalistawiseplay.vercel.app/megasport.w3u",
+		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_sport.w3u",
 		  "import":true
 		},
 		{
@@ -66,7 +66,7 @@
 	{
 	  "name":"Mega Sport TV (VPN)",
 	  "image":"https://i.imgur.com/NW9AUMM.png",
-	  "url":"https://megalistawiseplay.vercel.app/megasport.w3u"
+	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_sport.w3u"
 	},
 	{
 	  "name":"Whatplay-Sport By ELSUPREMO",
