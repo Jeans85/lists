@@ -51,12 +51,12 @@
 	{
 	  "name":"Megalista TV",
 	  "image":"https://i.imgur.com/93I4EWD.png",
-	  "url":"https://megalistawiseplay.vercel.app/megalista_tv.w3u"
+	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_tv.w3u"
 	},
 	{
 	  "name":"Megalista VOD",
 	  "image":"https://i.imgur.com/OcfEDch.png",
-	  "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u"
+	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u"
 	},
 	{
 	  "name":"CHUKY TV MIX",
