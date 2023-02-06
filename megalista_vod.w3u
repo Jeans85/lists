@@ -1,0 +1,104 @@
+{
+   "name":"Mega Lista VOD",
+   "author":"Supremme Listas - 1/2/23",
+   "image":"https://i.imgur.com/TL1OqHZ.png",
+   "url":"",
+   "telegram":"listaswhatplay",
+   "info":"Lista Wiseplay con Contenido VOD y Miscelánea",
+   "groups":[
+      {
+         "name":"Importar Listas",
+         "image":"https://i.imgur.com/TL1OqHZ.png",
+         "stations":[
+            {
+               "name":"CHUKY-CINE Y SERIES | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://pastebin.com/CuJ8H9wi",
+               "import":"true"
+            },
+            {
+               "name":"💢 TIRISTAR KIDS edicion 💢 | Añadir Lista ",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u",
+               "import":"true"
+            },
+            {
+               "name":" HispaKids - Hispared | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://www.dropbox.com/s/1wxmsh5t93ql7ci/Hispakids%203.w3u?dl=1",
+               "import":"true"
+            },
+            {
+               "name":" Hispafilms - Hispared | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://www.dropbox.com/s/5oi9pi16kkou8gn/Hispapelis%203.w3u?dl=1",
+               "import":"true"
+            },
+            {
+               "name":" Hispaseries - Hispared | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://www.dropbox.com/s/wz5t39lmamge01t/Hispaseriesred3.w3u?dl=1",
+               "import":"true"
+            },
+            {
+               "name":" La Macedonia - Hispared | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://www.dropbox.com/s/rlff0digjyngc1c/Macedonia%20list3.w3u?dl=1",
+               "import":"true"
+            },
+            {
+               "name":" ITALIAN-FILM - ElSupremo | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://w3ubin.com/v93aHNFa6.w3u",
+               "import":"true"
+            },
+            {
+               "name":" PELICULAS ESP - ElSupremo | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://w3ubin.com/mFXVMZejw.w3u",
+               "import":"true"
+            }
+         ]
+      },
+      {
+         "name":"CHUKY-CINE Y SERIES",
+         "image":"https://i.imgur.com/73g17x0.jpg",
+         "url":"https://pastebin.com/CuJ8H9wi"
+      },
+      {
+         "name":"💢 TIRISTAR KIDS edicion 💢",
+         "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/list%20infantil.gif",
+         "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u"
+      },
+      {
+         "name":" HispaKids - Hispared",
+         "image":"https://i.imgur.com/L4gxUtr.gif",
+         "url":"https://www.dropbox.com/s/1wxmsh5t93ql7ci/Hispakids%203.w3u?dl=1"
+      },
+      {
+         "name":" Hispafilms - Hispared",
+         "image":"https://i.imgur.com/bR6vta5.gif",
+         "url":"https://www.dropbox.com/s/5oi9pi16kkou8gn/Hispapelis%203.w3u?dl=1"
+      },
+      {
+         "name":" Hispaseries - Hispared",
+         "image":"https://i.imgur.com/K47yYJQ.gif",
+         "url":"https://www.dropbox.com/s/wz5t39lmamge01t/Hispaseriesred3.w3u?dl=1"
+      },
+      {
+         "name":" La Macedonia - Hispared",
+         "image":"https://i.imgur.com/s3de6g7.gif",
+         "url":"https://www.dropbox.com/s/rlff0digjyngc1c/Macedonia%20list3.w3u?dl=1"
+      },
+      {
+         "name":" ITALIAN-FILM - ElSupremo",
+         "image":"https://i.postimg.cc/CM7p0MJG/index.jpg",
+         "url":"https://w3ubin.com/v93aHNFa6.w3u"
+      },
+      {
+         "name":" PELICULAS ESP - ElSupremo",
+         "image":"https://i.postimg.cc/CM7p0MJG/index.jpg",
+         "url":"https://w3ubin.com/mFXVMZejw.w3u"
+      }
+   ]
+}
