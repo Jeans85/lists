@@ -1,0 +1,82 @@
+{
+  "name":"Mega Lista Whatplay ",
+  "author":"Supremme Listas - 30/01/2023",
+  "image":"https://i.imgur.com/TL1OqHZ.png",
+  "url":"",
+  "telegram":"listaswhatplay",
+  "info":"Listaswhatplay",
+  "groups":[
+    {
+	  "name":"Importar Listas",
+	  "image":"https://i.imgur.com/TL1OqHZ.png",
+	  "stations":[
+	    {
+	      "name":"Megalista TV | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://megalistawiseplay.vercel.app/megalista_tv.w3u",
+		  "import":true
+		},
+		{
+		  "name":"Megalista VOD | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
+		  "import":true
+		},
+		{
+		  "name":"CHUKY TV MIX | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+		  "import":true
+		},
+		{
+		  "name":"Mega Sport TV (VPN) | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://megalistawiseplay.vercel.app/megasport.w3u",
+		  "import":true
+		},
+		{
+		  "name":"Whatplay-Sport By ELSUPREMO | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://bit.ly/WiseHouse",
+		  "import":true
+		},
+		{
+		  "name":"Tiristar TV Juvenil | Añadir Lista ",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
+		  "import":true
+		}
+	  ]
+	},
+	{
+	  "name":"Megalista TV",
+	  "image":"https://i.imgur.com/93I4EWD.png",
+	  "url":"https://megalistawiseplay.vercel.app/megalista_tv.w3u"
+	},
+	{
+	  "name":"Megalista VOD",
+	  "image":"https://i.imgur.com/OcfEDch.png",
+	  "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u"
+	},
+	{
+	  "name":"CHUKY TV MIX",
+	  "image":"https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+	  "url":"https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
+	},
+	{
+	  "name":"Mega Sport TV (VPN)",
+	  "image":"https://i.imgur.com/NW9AUMM.png",
+	  "url":"https://megalistawiseplay.vercel.app/megasport.w3u"
+	},
+	{
+	  "name":"Whatplay-Sport By ELSUPREMO",
+	  "image":"https://i.imgur.com/Z702SwO.jpg",
+	  "url":"https://bit.ly/WiseHouse"
+	},
+	{
+	  "name":"Tiristar TV Juvenil",
+	  "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
+	  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+	}
+  ]
+}
