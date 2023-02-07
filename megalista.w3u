@@ -10,8 +10,8 @@
 	  "name":"Importar Listas",
 	  "image":"https://i.imgur.com/TL1OqHZ.png",
 	  "stations":[
-	    {
-	      "name":"Megalista TV | Añadir Lista",
+	        {
+	          "name":"Megalista TV | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
 		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_tv.w3u",
 		  "import":true
@@ -45,6 +45,12 @@
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
 		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 		  "import":true
+		},
+		{
+		  "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u",
+		  "import":true
 		}
 	  ]
 	},
@@ -77,6 +83,11 @@
 	  "name":"Tiristar TV Juvenil",
 	  "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
 	  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+	},
+	{
+	  "name":"TIRI MARRANO SOLO ADULTOS +18 M3U",
+	  "image":"https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1",
+	  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u"
 	}
   ]
 }
