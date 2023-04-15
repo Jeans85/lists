@@ -25,7 +25,7 @@
 		{
 		  "name":"CHUKY TV MIX | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
-		  "url":"https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+		  "url":"https://chykydeport-05.vercel.app/chuky",
 		  "import":true
 		},
 		{
@@ -67,7 +67,7 @@
 	{
 	  "name":"CHUKY TV MIX",
 	  "image":"https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-	  "url":"https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
+	  "url":"https://chykydeport-05.vercel.app/chuky"
 	},
 	{
 	  "name":"Mega Sport TV (VPN)",
