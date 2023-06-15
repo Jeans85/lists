@@ -1,6 +1,6 @@
 {{
   "name":"Mega Lista Whatplay ",
-  "author":"Supremme Listas - 15/04/2023",
+  "author":"Supremme Listas - 15/06/2023",
   "image":"https://i.imgur.com/TL1OqHZ.png",
   "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista.w3u",
   "telegram":"listaswhatplay",
@@ -22,12 +22,12 @@
 		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u",
 		  "import":true
 		},
-		{
-		  "name":"CHUKY TV MIX | Añadir Lista",
-		  "image":"https://i.imgur.com/TL1OqHZ.png",
-		  "url":"https://chykydeport-05.vercel.app/chuky",
-		  "import":true
-		},
+	        {
+	          "name": "CHUKYHOOD | Añadir Lista",
+	          "image": "https://i.imgur.com/YAaMwxN.png",
+	          "url": "https://raw.githubusercontent.com/chukyvaliente/deporteschuky/main/chukydep",
+	          "import": true
+	        },
 		{
 		  "name":"Mega Sport TV (VPN) | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
@@ -37,7 +37,7 @@
 		{
 		  "name":"Whatplay-Sport By ELSUPREMO | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
-		  "url":"https://bit.ly/WiseHouse",
+		  "url": "https://bit.ly/WiseSportMenu",
 		  "import":true
 		},
 		{
@@ -46,6 +46,12 @@
 		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 		  "import":true
 		},
+	        {
+	          "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
+	          "image": "https://i.imgur.com/YAaMwxN.png",
+	          "url": "https://af-1-cionados.vercel.app/af1cionados.w3u",
+	          "import": true
+	        },
 		{
 		  "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
@@ -65,9 +71,9 @@
 	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u"
 	},
 	{
-	  "name":"CHUKY TV MIX",
-	  "image":"https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-	  "url":"https://chykydeport-05.vercel.app/chuky"
+	  "name": "CHUKYHOOD",
+	  "image": "https://i.imgur.com/AyAdJAl.png",
+	  "url": "https://raw.githubusercontent.com/chukyvaliente/deporteschuky/main/chukydep"
 	},
 	{
 	  "name":"Mega Sport TV (VPN)",
@@ -77,12 +83,17 @@
 	{
 	  "name":"Whatplay-Sport By ELSUPREMO",
 	  "image":"https://i.imgur.com/Z702SwO.jpg",
-	  "url":"https://bit.ly/WiseHouse"
+	  "url":"https://bit.ly/WiseSportMenu"
 	},
 	{
 	  "name":"Tiristar TV Juvenil",
 	  "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
 	  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+	},
+	{
+	  "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX",
+	  "image": "https://giffiles.alphacoders.com/211/211426.gif",
+	  "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
 	},
 	{
 	  "name":"TIRI MARRANO SOLO ADULTOS +18 M3U",
