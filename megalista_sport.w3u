@@ -8,41 +8,41 @@
   "groups": [
     {
       "name": "Importar Listas",
-      "image": "https://i.imgur.com/TL1OqHZ.png",
+      "image": "https://i.imgur.com/YAaMwxN.png",
       "stations": [
         {
           "name": "Daddylive (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/TL1OqHZ.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megasport/daddylive.w3u",
           "import": true
         },
         {
           "name": "GMRS | Importar lista",
-          "image": "https://i.imgur.com/TL1OqHZ.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megasport/gmrs.w3u",
           "import": true
         },
         {
           "name": "Live TV (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/TL1OqHZ.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megasport/livetv.w3u",
           "import": true
         },
         {
           "name": "Sportzonline (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/TL1OqHZ.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megasport/sportzonline.w3u",
           "import": true
         },
         {
           "name": "Sportkart1 (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/TL1OqHZ.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megasport/sportkart1.w3u",
           "import": true
         },
         {
           "name": "BDNewsZH | Añadir Lista",
-          "image": "https://i.imgur.com/TL1OqHZ.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megasport/bdnewszh.w3u",
           "import": true
         }
