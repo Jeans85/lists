@@ -8,53 +8,53 @@
    "groups":[
       {
          "name":"Importar Listas",
-         "image":"https://i.imgur.com/TL1OqHZ.png",
+         "image":"https://i.imgur.com/YAaMwxN.png",
          "stations":[
             {
                "name":"CHUKY-CINE Y SERIES | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
                "import":"true"
             },
             {
-               "name":"💢 TIRISTAR KIDS edicion 💢 | Añadir Lista ",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
-               "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u",
+               "name":"💢 TIRISTAR VOD 💢 | Añadir Lista ",
+               "image":"https://i.imgur.com/YAaMwxN.png",
+               "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_vod.w3u",
                "import":"true"
             },
             {
                "name":" HispaKids - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://www.dropbox.com/s/1wxmsh5t93ql7ci/Hispakids%203.w3u?dl=1",
                "import":"true"
             },
             {
                "name":" Hispafilms - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://www.dropbox.com/s/5oi9pi16kkou8gn/Hispapelis%203.w3u?dl=1",
                "import":"true"
             },
             {
                "name":" Hispaseries - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://www.dropbox.com/s/wz5t39lmamge01t/Hispaseriesred3.w3u?dl=1",
                "import":"true"
             },
             {
                "name":" La Macedonia - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://www.dropbox.com/s/rlff0digjyngc1c/Macedonia%20list3.w3u?dl=1",
                "import":"true"
             },
             {
                "name":" ITALIAN-FILM - ElSupremo | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://w3ubin.com/v93aHNFa6.w3u",
                "import":"true"
             },
             {
                "name":" PELICULAS ESP - ElSupremo | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://w3ubin.com/mFXVMZejw.w3u",
                "import":"true"
             }
@@ -66,9 +66,9 @@
          "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
       },
       {
-         "name":"💢 TIRISTAR KIDS edicion 💢",
+         "name":"💢 TIRISTAR VOD 💢",
          "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/list%20infantil.gif",
-         "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u"
+         "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_vod.w3u"
       },
       {
          "name":" HispaKids - Hispared",
