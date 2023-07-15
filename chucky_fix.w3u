@@ -8,8 +8,7 @@
 	"groups": [{
 		"name": "Lista para todo el mundo (Sin lucrarse)",
 		"image": "https://lh3.googleusercontent.com/A0-KdBraWx4L-RgGlLf-EI_sc2jjpsR4vOK_CIgy8ps1BaZS_yAHPNiaXMk6QUOhcA=h500",
-		"info": "",
-		"stations": [{}]
+		"info": ""
 	}, {
 		"name": "Estrenos de Cine",
 		"image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
