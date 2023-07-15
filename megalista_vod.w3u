@@ -1,6 +1,6 @@
 {{
    "name":"Mega Lista VOD",
-   "author":"Supremme Listas - 1/2/23",
+   "author":"Supremme Listas - 15/7/23",
    "image":"https://i.imgur.com/OcfEDch.png",
    "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u",
    "telegram":"listaswhatplay",
@@ -13,7 +13,7 @@
             {
                "name":"CHUKY-CINE Y SERIES | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+               "url":"https://raw.githubusercontent.com/Jeans85/lists/main/chucky_fix.w3u",
                "import":"true"
             },
             {
