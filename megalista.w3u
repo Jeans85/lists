@@ -54,13 +54,13 @@
 	  	},
 	    	{
 	      	  "name": "El Cano [Acestream] | Añadir Lista",
-	          "image": "https://i.imgur.com/YAaMwxN.png",
+	          "image": "https://i.imgur.com/TL1OqHZ.png",
 	      	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
 	      	  "import": true
 	        },
 	        {
 	      	  "name": "El Cano [HTTP] | Añadir Lista",
-	      	  "image": "https://i.imgur.com/YAaMwxN.png",
+	      	  "image": "https://i.imgur.com/TL1OqHZ.png",
 	       	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
 	     	  "import": true
 	   	},
