@@ -22,12 +22,12 @@
 		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u",
 		  "import":true
 		},
-	  {
-	  	"name": "CHUKYHOOD | Añadir Lista",
-	    "image": "https://i.imgur.com/YAaMwxN.png",
-      "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
-	    "import": true
-	  },
+	  	{
+	  	  "name": "CHUKYHOOD | Añadir Lista",
+	    	  "image": "https://i.imgur.com/TL1OqHZ.png",
+      		  "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+	    	  "import": true
+	   	},
 		{
 		  "name":"Mega Sport TV (VPN) | Añadir Lista",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
@@ -46,24 +46,24 @@
 		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 		  "import":true
 		},
-	  {
-	    "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
-	    "image": "https://i.imgur.com/YAaMwxN.png",
-      "url": "https://af-1-cionados.vercel.app/af1cionados.w3u",
-      "import": true
-	  },
-    {
-      "name": "El Cano [Acestream] | Añadir Lista",
-      "image": "https://i.imgur.com/YAaMwxN.png",
-      "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
-      "import": true
-    },
-    {
-      "name": "El Cano [HTTP] | Añadir Lista",
-      "image": "https://i.imgur.com/YAaMwxN.png",
-      "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
-      "import": true
-    },
+	  	{
+	    	  "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
+	    	  "image": "https://i.imgur.com/TL1OqHZ.png",
+      	 	  "url": "https://af-1-cionados.vercel.app/af1cionados.w3u",
+      		  "import": true
+	  	},
+	    	{
+	      	  "name": "El Cano [Acestream] | Añadir Lista",
+	          "image": "https://i.imgur.com/YAaMwxN.png",
+	      	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
+	      	  "import": true
+	        },
+	        {
+	      	  "name": "El Cano [HTTP] | Añadir Lista",
+	      	  "image": "https://i.imgur.com/YAaMwxN.png",
+	       	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
+	     	  "import": true
+	   	},
 		{
 		  "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
 		  "image":"https://i.imgur.com/TL1OqHZ.png",
@@ -85,7 +85,7 @@
 	{
 	  "name": "CHUKYHOOD",
 	  "image": "https://i.imgur.com/AyAdJAl.png",
-    "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+    	  "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
 	},
 	{
 	  "name":"Mega Sport TV (VPN)",
@@ -100,23 +100,23 @@
 	{
 	  "name":"Tiristar TV Juvenil",
 	  "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
-    "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+    	  "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
 	},
 	{
 	  "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX",
 	  "image": "https://giffiles.alphacoders.com/211/211426.gif",
 	  "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
 	},
-  {
-    "name": "El Cano [Acestream]",
-    "image": "https://i.imgur.com/Eg5iqZC.png",
-    "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt"
-  },
-  {
-    "name": "El Cano [HTTP]",
-    "image": "https://i.imgur.com/Eg5iqZC.png",
-    "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt"
-  },
+  	{
+    	  "name": "El Cano [Acestream]",
+    	  "image": "https://i.imgur.com/Eg5iqZC.png",
+    	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt"
+  	},
+  	{
+    	  "name": "El Cano [HTTP]",
+    	  "image": "https://i.imgur.com/Eg5iqZC.png",
+    	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt"
+  	},
 	{
 	  "name":"TIRI MARRANO SOLO ADULTOS +18 M3U",
 	  "image":"https://imgs.search.brave.com/Wsz4VKYoTBlSH5hfQz73p_l_4hGxZiF7YY5spwhzpFE/rs:fit:256:256:1/g:ce/aHR0cHM6Ly9wbmdp/Y29uLnJ1L2ZpbGUv/dXBsb2Fkcy8xOHBs/dXMtMjU2eDI1Ni5w/bmc",
