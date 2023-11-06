@@ -55,13 +55,13 @@
 	    	{
 	      	  "name": "El Cano [Acestream] | Añadir Lista",
 	          "image": "https://i.imgur.com/TL1OqHZ.png",
-	      	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
+	      	  "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
 	      	  "import": true
 	        },
 	        {
 	      	  "name": "El Cano [HTTP] | Añadir Lista",
 	      	  "image": "https://i.imgur.com/TL1OqHZ.png",
-	       	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
+	       	  "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
 	     	  "import": true
 	   	},
 		{
@@ -110,12 +110,12 @@
   	{
     	  "name": "El Cano [Acestream]",
     	  "image": "https://i.imgur.com/Eg5iqZC.png",
-    	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt"
+    	  "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt"
   	},
   	{
     	  "name": "El Cano [HTTP]",
     	  "image": "https://i.imgur.com/Eg5iqZC.png",
-    	  "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt"
+    	  "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt"
   	},
 	{
 	  "name":"TIRI MARRANO SOLO ADULTOS +18 M3U",
